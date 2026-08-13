@@ -84,10 +84,9 @@ python3 --version
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-file-organizer.git
+git clone https://github.com/briankimani640/python-file-organizer.git
 ```
 
-> **Important:** Replace `YOUR-USERNAME` with your actual GitHub username.
 
 Navigate into the project directory:
 
@@ -392,11 +391,10 @@ See the `LICENSE` file for more information.
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Brian Kimani**
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/briankimani640`
 
-> Replace `YOUR NAME` and `YOUR-USERNAME` with your actual details.
 
 ---
 
@@ -412,31 +410,6 @@ If you find this project useful, consider supporting the project by:
 
 ---
 
-## 📤 Commit and Push README.md
-
-After adding or updating `README.md`, run:
-
-```bash
-# Check the current status
-git status
-
-# Stage the README
-git add README.md
-
-# Commit the documentation
-git commit -m "docs: add comprehensive README"
-
-# Push to GitHub
-git push origin main
-```
-
-If your default branch is `master`, use:
-
-```bash
-git push origin master
-```
-
----
 
 ## 📋 Quick Start
 
