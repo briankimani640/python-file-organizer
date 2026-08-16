@@ -15,7 +15,7 @@ The script will:
 3. Create the appropriate category folder.
 4. Move the file into its corresponding folder.
 
-### 📁 Categories Supported
+###  Categories Supported
 
 | Category | File Extensions |
 |---|---|
