@@ -35,7 +35,7 @@ The script will:
 -  **Automatically creates category folders**
 -  **Cleans up cluttered directories**
 -  **Built entirely with Python**
-- 📦 **Zero external dependencies**
+-  **Zero external dependencies**
 - 🔧 **Easy to customize**
 - 💻 **Cross-platform**
 - 🗂️ **Supports multiple file categories**
