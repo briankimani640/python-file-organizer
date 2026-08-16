@@ -43,7 +43,7 @@ The script will:
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 This project uses only Python's built-in libraries.
 
