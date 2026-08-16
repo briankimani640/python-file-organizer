@@ -398,7 +398,7 @@ GitHub: `https://github.com/briankimani640`
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you find this project useful, consider supporting the project by:
 
