@@ -4,7 +4,7 @@ A lightweight, zero-dependency Python script that automatically organizes a mess
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 Place the `organize.py` script inside any cluttered folder, such as your **Downloads** folder, and run it.
 
