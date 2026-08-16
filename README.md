@@ -31,7 +31,7 @@ The script will:
 
 ##  Features
 
-- ⚡ **Fast and lightweight**
+-  **Fast and lightweight**
 - 📂 **Automatically creates category folders**
 - 🧹 **Cleans up cluttered directories**
 - 🐍 **Built entirely with Python**
