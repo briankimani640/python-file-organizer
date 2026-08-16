@@ -29,7 +29,7 @@ The script will:
 
 ---
 
-## ✨ Features
+##  Features
 
 - ⚡ **Fast and lightweight**
 - 📂 **Automatically creates category folders**
