@@ -198,7 +198,7 @@ You can add or remove extensions according to your needs.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The organizer follows this process:
 
