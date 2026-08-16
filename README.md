@@ -33,7 +33,7 @@ The script will:
 
 -  **Fast and lightweight**
 -  **Automatically creates category folders**
-- 🧹 **Cleans up cluttered directories**
+-  **Cleans up cluttered directories**
 - 🐍 **Built entirely with Python**
 - 📦 **Zero external dependencies**
 - 🔧 **Easy to customize**
