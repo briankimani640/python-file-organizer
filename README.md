@@ -38,7 +38,7 @@ The script will:
 -  **Zero external dependencies**
 -  **Easy to customize**
 -  **Cross-platform**
-- 🗂️ **Supports multiple file categories**
+-  **Supports multiple file categories**
 - ♻️ **Can be reused on any directory**
 
 ---
