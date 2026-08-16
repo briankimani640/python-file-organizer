@@ -55,7 +55,7 @@ No external packages or dependencies are required.
 
 ---
 
-## 📌 Requirements
+##  Requirements
 
 Before using the project, make sure you have:
 
