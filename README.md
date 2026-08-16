@@ -177,7 +177,7 @@ Downloads/
 
 ---
 
-## 🔧 Customization
+##  Customization
 
 You can customize the file categories and supported extensions inside `organize.py`.
 
