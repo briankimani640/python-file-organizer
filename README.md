@@ -128,7 +128,7 @@ python3 organize.py
 
 ---
 
-## 📂 Example
+##  Example
 
 ### Before Running
 
