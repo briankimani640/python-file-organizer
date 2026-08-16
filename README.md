@@ -37,7 +37,7 @@ The script will:
 -  **Built entirely with Python**
 -  **Zero external dependencies**
 -  **Easy to customize**
-- 💻 **Cross-platform**
+-  **Cross-platform**
 - 🗂️ **Supports multiple file categories**
 - ♻️ **Can be reused on any directory**
 
