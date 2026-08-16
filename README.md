@@ -39,7 +39,7 @@ The script will:
 -  **Easy to customize**
 -  **Cross-platform**
 -  **Supports multiple file categories**
-- ♻️ **Can be reused on any directory**
+-  **Can be reused on any directory**
 
 ---
 
