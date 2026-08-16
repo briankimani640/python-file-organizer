@@ -77,7 +77,7 @@ python3 --version
 
 ---
 
-## 💻 Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone the Repository
 
