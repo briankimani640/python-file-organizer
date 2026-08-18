@@ -389,7 +389,7 @@ See the `LICENSE` file for more information.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Brian Kimani**
 
