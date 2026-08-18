@@ -432,6 +432,6 @@ Your files will automatically be sorted into categorized folders.
 
 ---
 
-⭐ **If you find this project useful, consider giving the repository a star!**
+ **If you find this project useful, consider giving the repository a star!**
 
 
