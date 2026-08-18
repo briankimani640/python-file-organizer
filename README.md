@@ -347,7 +347,7 @@ Then create a Pull Request on GitHub.
 
 ---
 
-## 🐛 Reporting Issues
+##  Reporting Issues
 
 If you find a bug or have a feature request, please open an issue in the GitHub repository.
 
