@@ -411,7 +411,7 @@ If you find this project useful, consider supporting the project by:
 ---
 
 
-## 📋 Quick Start
+##  Quick Start
 
 For a quick setup:
 
