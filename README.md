@@ -287,7 +287,7 @@ By working on this project, you can learn how to:
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 Before running the script on important files:
 
