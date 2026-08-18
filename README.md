@@ -235,7 +235,7 @@ Identify Category
 Move File
   │
   ▼
-Done ✅
+Done 
 ```
 
 ---
