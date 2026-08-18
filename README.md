@@ -20,7 +20,7 @@ The script will:
 | Category | File Extensions |
 |---|---|
 |  `Images/` | `.jpg`, `.jpeg`, `.png`, `.gif`, `.svg`, `.webp` |
-| 📄 `Documents/` | `.pdf`, `.doc`, `.docx`, `.txt`, `.xlsx`, `.xls`, `.ppt`, `.pptx` |
+|  `Documents/` | `.pdf`, `.doc`, `.docx`, `.txt`, `.xlsx`, `.xls`, `.ppt`, `.pptx` |
 | 💻 `Code/` | `.py`, `.js`, `.html`, `.css`, `.java`, `.cpp`, `.c`, `.php` |
 | 🎵 `Audio/` | `.mp3`, `.wav`, `.flac`, `.aac`, `.ogg` |
 | 🎬 `Video/` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv` |
