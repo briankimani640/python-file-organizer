@@ -362,7 +362,7 @@ When reporting a bug, include:
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
