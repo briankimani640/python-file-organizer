@@ -252,7 +252,7 @@ python-file-organizer/
 
 ---
 
-## 🐍 Python Concepts Used
+##  Python Concepts Used
 
 This project demonstrates several fundamental Python concepts:
 
