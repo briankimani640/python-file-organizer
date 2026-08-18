@@ -402,7 +402,7 @@ GitHub: `https://github.com/briankimani640`
 
 If you find this project useful, consider supporting the project by:
 
-- ⭐ Starring the repository
+-  Starring the repository
 - 🍴 Forking the repository
 - 🐛 Reporting bugs
 - 💡 Suggesting improvements
