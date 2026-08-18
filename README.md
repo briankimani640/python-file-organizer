@@ -24,7 +24,7 @@ The script will:
 |  `Code/` | `.py`, `.js`, `.html`, `.css`, `.java`, `.cpp`, `.c`, `.php` |
 |  `Audio/` | `.mp3`, `.wav`, `.flac`, `.aac`, `.ogg` |
 |  `Video/` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv` |
-| 📦 `Archives/` | `.zip`, `.rar`, `.7z`, `.tar`, `.gz`, `.tar.gz` |
+|  `Archives/` | `.zip`, `.rar`, `.7z`, `.tar`, `.gz`, `.tar.gz` |
 | 📁 `Others/` | Any unrecognized file type |
 
 ---
