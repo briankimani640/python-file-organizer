@@ -23,7 +23,7 @@ The script will:
 |  `Documents/` | `.pdf`, `.doc`, `.docx`, `.txt`, `.xlsx`, `.xls`, `.ppt`, `.pptx` |
 |  `Code/` | `.py`, `.js`, `.html`, `.css`, `.java`, `.cpp`, `.c`, `.php` |
 |  `Audio/` | `.mp3`, `.wav`, `.flac`, `.aac`, `.ogg` |
-| 🎬 `Video/` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv` |
+|  `Video/` | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv` |
 | 📦 `Archives/` | `.zip`, `.rar`, `.7z`, `.tar`, `.gz`, `.tar.gz` |
 | 📁 `Others/` | Any unrecognized file type |
 
