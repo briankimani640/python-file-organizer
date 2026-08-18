@@ -270,7 +270,7 @@ This project demonstrates several fundamental Python concepts:
 
 ---
 
-## 📚 Learning Purpose
+##  Learning Purpose
 
 This project is designed as a beginner-friendly Python automation project.
 
