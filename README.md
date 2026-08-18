@@ -406,7 +406,7 @@ If you find this project useful, consider supporting the project by:
 -  Forking the repository
 -  Reporting bugs
 -  Suggesting improvements
-- 🤝 Contributing to the project
+-  Contributing to the project
 
 ---
 
