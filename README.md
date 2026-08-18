@@ -315,7 +315,7 @@ It simply creates folders and moves files into the appropriate folders.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
