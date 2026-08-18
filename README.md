@@ -426,7 +426,7 @@ cd python-file-organizer
 python organize.py
 ```
 
-That's it! 🎉
+That's it! 
 
 Your files will automatically be sorted into categorized folders.
 
