@@ -240,7 +240,7 @@ Done
 
 ---
 
-## 📜 Project Structure
+##  Project Structure
 
 ```text
 python-file-organizer/
