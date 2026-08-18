@@ -404,7 +404,7 @@ If you find this project useful, consider supporting the project by:
 
 -  Starring the repository
 -  Forking the repository
-- 🐛 Reporting bugs
+-  Reporting bugs
 - 💡 Suggesting improvements
 - 🤝 Contributing to the project
 
