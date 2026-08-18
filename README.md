@@ -299,7 +299,7 @@ Before running the script on important files:
 
 ---
 
-## 🔒 Safety
+##  Safety
 
 The script is designed to organize files based on their extensions.
 
