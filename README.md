@@ -1,6 +1,8 @@
 #  Python File Organizer
 
+A lightweight, zero-dependency Python script that automatically organizes a messy directory by sorting files into categorized folders based on their file extensions.
 
+---
 
 ##  How It Works
 
