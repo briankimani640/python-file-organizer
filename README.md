@@ -10,10 +10,6 @@ Place the `organize.py` script inside any cluttered folder, such as your **Downl
 
 The script will:
 
-1. Scan the directory for files.
-2. Identify each file based on its extension.
-3. Create the appropriate category folder.
-4. Move the file into its corresponding folder.
 
 ###  Categories Supported
 
